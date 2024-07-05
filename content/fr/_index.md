@@ -9,12 +9,12 @@ header_use_video: false
 header_logo: "images/peacock.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Emma & Jordan's Wedding\nSaturday, 26th July 2025"
-header_subheadline: "Come celebrate our union with us!"
+header_headline: "Mariage d'Emma et Jordan\nSamedi 26 juillet 2025"
+header_subheadline: "Venez célébrer notre union avec nous !"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
 # Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
-nav_to_top_title: "Return To Top"
+nav_to_top_title: "Retour en haut de page"
 nav_to_top_weight: last
 ---

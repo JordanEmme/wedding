@@ -1,7 +1,7 @@
 ---
-title: "About the Day"
+title: "Le jour J"
 weight: 2
 header_menu: true
 ---
 
-More details coming soon...
+Partie en construction, nous transmettrons les détails dès que possible.

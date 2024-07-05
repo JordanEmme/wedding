@@ -1,21 +1,20 @@
 ---
-title: "Accomodation"
+title: "Hôtels"
 weight: 3
 header_menu: true
 ---
 
-There are several options to stay at or near the venue.
+Vous avez le choix de plusieurs options pour passer la nuit.
 
-Should you wish to stay at the venue, there are a number of bell-tents/glamping
-options. Each tent can host between 2 to 6 people, and come with everything you
-need for a comfortable stay. Costs range from £108 to £210 depending on the size
-of your party. More information can be found
-[here](https://olddownestate.co.uk/bell-tents/).
+Si vous voulez rester sur place, à l'endroit ou se sera tenu la cérémonie, des
+"tentes" (de type yourte) sont disponibles à la location. Chaque tente peut
+accueillir de 2 à 6 personnes, et sont équipées de lits. Les prix vont de 127€
+à 248€ par nuit, en fonction du nombre de personnes. Pour plus d'informations,
+vous pouvez visiter [leur site](https://olddownestate.co.uk/bell-tents/).
 
-Should you prefer a hotel, here are a few reasonably priced options nearby.
-* [Premier Inn Alveston](https://maps.app.goo.gl/fpEKZCjLCYFX5LY59), a 5 min
-drive away from the venue;
-* [Best Western Bristol North](https://maps.app.goo.gl/LAxGtFgfoeqAD5ke8), a 15
-min drive away from the venue;
-* [Double Tree by Hilton, Bristol North](https://maps.app.goo.gl/7tqfg6wq76UUw4nb7),
- a 10 min drive away from the venue.
+Si vous préférez rester dans un hôtel, voici quelques options à des tarifs
+raisonnables à proximité
+* [Premier Inn Alveston](https://maps.app.goo.gl/fpEKZCjLCYFX5LY59), a 5 minutes;
+* [Best Western Bristol North](https://maps.app.goo.gl/LAxGtFgfoeqAD5ke8), à
+15 minutes;
+* [Double Tree by Hilton, Bristol North](https://maps.app.goo.gl/7tqfg6wq76UUw4nb7), à 10 minutes.
