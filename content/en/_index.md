@@ -1,16 +1,16 @@
 ---
 # Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
-header_image: "images/portishead.jpg"
+header_image: "images/olddown.jpeg"
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/rings.png"
+header_logo: "images/peacock.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Emma & Jordan's Wedding"
-header_subheadline: "Come celebrate our union with us"
+header_headline: "Emma & Jordan's Wedding\nSaturday, 26th July 2025"
+header_subheadline: "Come celebrate our union with us!"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
