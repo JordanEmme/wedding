@@ -1,9 +1,6 @@
 ---
 title: "Emma & Jordan's Wedding"
-
-description: "Come see our parents get married!"
+description: "Website in construction, more informations soon."
 cascade:
-  featured_image: '/family.jpg'
+  featured_image: 'portishead.jpg'
 ---
-
-In construction, coming soon...
