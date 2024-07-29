@@ -15,11 +15,11 @@ outside and we hope to also enjoy the large outdoor space for aperitif, games
 and photos. It will be a very family friendly affair with lots of opportunity
 for little ones to play!
 
-the park itself features open woodland, beautiful gardens, adventure play
-areas and animal parks, as well as an onsite spa. with so much to do we would
-recommend setting some time aside to enjoy it, either on the morning of the
-wedding or the day after. should you be so lucky, you will also get to meet
-Kevin, the resident peacock.
+The park itself features open woodland, beautiful gardens, adventure play
+areas and animal parks, as well as an onsite spa. With so much to do we would
+recommend setting some time aside to enjoy it, either the morning of the wedding
+or the day after. Should you be so lucky, you will also get to meet Kevin, the
+resident peacock.
 
 Free onsite parking is available in the Country Park car park.
 
