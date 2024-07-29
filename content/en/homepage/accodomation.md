@@ -14,6 +14,8 @@ need for a comfortable stay. Costs range from £108 to £210 depending on the si
 of your party. More information can be found
 [here](https://olddownestate.co.uk/bell-tents/).
 
+![Bell-tents](images/bell-tent.jpg)
+
 ##### Staying in a hotel close by
 
 Should you prefer a hotel, here are a few reasonably priced options nearby.
