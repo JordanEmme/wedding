@@ -4,6 +4,8 @@ weight: 1
 header_menu: true
 ---
 
+![Us](images/us.jpeg)
+
 As many of you know we met through Tim when he was studying in Marseille. Jordan
 came to celebrate New Year 2019 in Bideford, after which we became pen pals. It
 didn't take long for "pen pals" to turn into a long distance love.
