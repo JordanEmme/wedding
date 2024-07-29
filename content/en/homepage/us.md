@@ -5,8 +5,8 @@ header_menu: true
 ---
 
 As many of you know we met through Tim when he was studying in Marseille. Jordan
-came to celebrate New Year 2019 in Bideford, after which Emma and he bacame pen
-pals. It didn't take long for "pen pals" to turn into a long distance love.
+came to celebrate New Year 2019 in Bideford, after which we became pen pals. It
+didn't take long for "pen pals" to turn into a long distance love.
 
 We know how incredibly lucky we are to have found each other and to have
 welcomed our two beautiful children into the world. To us, getting married is
