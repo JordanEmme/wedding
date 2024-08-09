@@ -13,8 +13,7 @@ acceuilir de deux à six personnes, et sont équipées avec tout ce dont vous av
 besoin pour passer une nuit confortable. Une nuitée coûte entre £108 et £210
 (environ 130€ et 250€ respectivement, en fonction des caprices des banquiers)
 selon le nombre de personnes. Vous pouvez trouver plus d'informations,
-dans la langue de ~Boris Johnson~ Shakespeare, [sur ce lien](https://
-olddownestate.co.uk/bell-tents/).
+dans la langue de ~Boris Johnson~ Shakespeare, [sur ce lien](https://olddownestate.co.uk/bell-tents/).
 
 ![Bell-tents](images/bell-tent.jpg)
 
