@@ -9,7 +9,7 @@ Vous pouvez rester dormir sur les lieux ou dans des hôtels proches.
 ##### Rester sur place
 
 Sur place, il y a un certain nombre de tentes/yourtes. Chaque tente peut
-acceuilir de deux à six personnes, et sont équipées avec tout ce dont vous avez
+acceuilir de deux à six personnes, et est équipée avec tout ce dont vous avez
 besoin pour passer une nuit confortable. Une nuitée coûte entre £108 et £210
 (environ 130€ et 250€ respectivement, en fonction des caprices des banquiers)
 selon le nombre de personnes. Vous pouvez trouver plus d'informations,

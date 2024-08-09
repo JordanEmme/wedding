@@ -17,7 +17,7 @@ et d'avoir fait deux merveilleux enfants. Nous marier est la dernière étape
 pour cimenter notre famille, et nous aimerions beaucoup que vous soyez là pour
 célébrer cet événement avec nous.
 
-Votre présence serait le plus beau des cadeau, aussi ne demandons-nous pas
+Votre présence serait le plus beau des cadeaux, aussi ne demandons-nous pas
 de présent. Nous sommes bien conscients que venir à un mariage, qui plus est à
 l'étranger, demande déjà un sacrifice financier. Si toutefois vous le souhaitiez
 vraiment, vous pourrez faire un don à une association de notre choix sur place.

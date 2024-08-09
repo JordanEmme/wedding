@@ -13,15 +13,15 @@ mais nous jouïrons aussi d'un jardin clos privatisé, qui comprend une aire de
 jeu pour enfants. En fonction du temps (oui oui, il pourrait faire beau), la
 cérémonie pourra se faire à l'extérieur, ainsi que l'appéritif, les photos, et
 quelques jeux. Nous aimerions que ce mariage soit aussi acceuillant que possible
-pour les familles et les tous petits qui seront nombreux.
+pour les familles et les tout petits qui seront nombreux.
 
 Le parc en lieu même comprend un petit bois, de beaux jardins, un "parc
 aventures", des enclos pour animaux, ainsi qu'un espace spa. Nous vous
-recommendons de mettre un peu de temps de côté pour l'explorer, soit le matin
-avant le mariage, soir le lendemain. Et si vous êtes particulièrement chanceux,
+recommandons de mettre un peu de temps de côté pour l'explorer, soit le matin
+avant le mariage, soit le lendemain. Et si vous êtes particulièrement chanceux,
 vous pourrez faire la connaissance de la mascotte du parc, un paon qui répond au
 doux nom de Kévin.
 
-Les lieux disposent d'un parking gratuit.
+Il y a un parking gratuit sur place.
 
 ![Kevin](images/kevin.gif)
