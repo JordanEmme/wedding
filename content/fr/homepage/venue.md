@@ -11,7 +11,7 @@ d'un petit parc rural que nous apprécions visiter en famille, les quelques rare
 jours de beau temps anglais... Le dîner et la fête auront lieu en intérieur,
 mais nous jouïrons aussi d'un jardin clos privatisé, qui comprend une aire de
 jeu pour enfants. En fonction du temps (oui oui, il pourrait faire beau), la
-cérémonie pourra se faire à l'extérieur, ainsi que l'appéritif, les photos, et
+cérémonie pourra se faire à l'extérieur, ainsi que l'apéritif, les photos, et
 quelques jeux. Nous aimerions que ce mariage soit aussi acceuillant que possible
 pour les familles et les tout petits qui seront nombreux.
 
