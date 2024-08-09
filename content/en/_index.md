@@ -9,7 +9,7 @@ header_use_video: false
 header_logo: "images/peacock.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Emma & Jordan's Wedding\nSaturday, 26th July 2025"
+header_headline: "Emma & Jordan's Wedding<br>Saturday, 26th July 2025"
 header_subheadline: "Come celebrate our union with us!"
 
 # Add a 'Go back to top' item to the navigation menu
