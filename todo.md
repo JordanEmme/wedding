@@ -1,6 +1,6 @@
 - [ ] Find better fonts
 - [ ] Find better main picture
-- [ ] Fix link highlight colour
-- [ ] Remove template mention in footer
-- [ ] Translate new content to French
-- [ ] Remove all unused assets and templates
+- [x] Fix link highlight colour
+- [x] Remove template mention in footer
+- [x] Translate new content to French
+- [x] Remove all unused assets and templates
